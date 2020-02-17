@@ -1,20 +1,13 @@
-https://www.youtube.com/watch?v=b8sUhU_eq3g
+TOP 3 videos about JavaScript
+1 - https://www.youtube.com/watch?v=fju9ii8YsGs&feature=youtu.be
+2 - https://www.youtube.com/watch?v=b8sUhU_eq3g
+3 - https://www.youtube.com/watch?v=Ptbk2af68e8
 
-1º application in JavaScript
+It's my 1º application in JavaScript, I followed the tutorial <To Do List App in JavaScript [beginners]> from CodeExplained, where a JavaScript beginner can be able to create a beautiful and functional to do list.
 
-In this tutorial, a JavaScript beginner can be able to create a beautiful and functional to do list using JavaScript.
-I will talk about the logic behind every line of code, before opening my text editor and start typing the code.
-it's a step by step tutorial, you won't get lost at any stage of this tutorial.
-
-to follow the tutorial step by step, when we get to the second part (when we type the code), you'll need to download the starter template from here.
-
-CodeExplainedRepo : http://github.com/codeexplainedrepo/T...
-
-When you open the folder, you'll find all the files needed to get started, the CSS code is already typed (see style.css file), as we're not going to talk about CSS in our tutorial. we're going just to talk about HTML and JavaScript.
-
-the to-do list we're going to create has a beautiful UI, the user can add a to-do by filling the input and hit ENTER, after that he can rather check the to-do when it's done, or remove it using the delete button.
-
-The user's to-do list is stored in the local storage, so when he refreshes the page, he can always find the list there.
-
-There is the possibility for the user, to clear the list, by clicking the button clear, at the top right corner of our app.
-
+About the TO-DO List: 
+*Beautiful UI
+*User can add a to-do by filling the input and hit ENTER
+*User can check the to-do when it's done, or remove it using the delete button.
+*User can clear the list, by clicking the button clear, at the top right corner of our app.
+*The list is stored in the local storage, so even when the page is refreshed the list is still there
